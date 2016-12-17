@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831170661627",
+    "firebase_url": "https://fir-test-3a9a6.firebaseio.com",
+    "project_id": "fir-test-3a9a6",
+    "storage_bucket": "fir-test-3a9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831170661627:android:d4f435f4353ef376",
+        "android_client_info": {
+          "package_name": "com.ramadhan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831170661627-dcrhv72924muukcaggc21kn528v9jspu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCo9oyGU2ZeKFcaTAw_aAiFpDcK83UtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
